@@ -1,0 +1,24 @@
+{
+  "name": "mensa-app-backend",
+  "version": "1.0.0",
+  "description": "Backned der Mensa App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeamHungrig/mensa-app-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeamHungrig/mensa-app-backend/issues"
+  },
+  "homepage": "https://github.com/TeamHungrig/mensa-app-backend#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cheerio": "^1.0.0-rc.3",
+    "ts": "^0.2.2"
+  }
+}
